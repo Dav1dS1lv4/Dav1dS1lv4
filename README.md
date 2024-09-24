@@ -1,6 +1,8 @@
 ### Hey there! :blush:
 ### I'm David Silva
 
+
+<img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <div align="left">
   <a href="https://github.com/Dav1dS1lva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dav1dS1lv4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

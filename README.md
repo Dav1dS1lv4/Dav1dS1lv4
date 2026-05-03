@@ -1,7 +1,6 @@
 # 👋 Hey, I'm David Silva
 
 💻 Frontend Developer (React)  
-🤖 Currently building a powerful Discord bot project  
 📍 Portugal  
 
 ---
@@ -10,7 +9,7 @@
 
 - Frontend developer focused on React and UI development  
 - Passionate about building useful and interactive applications  
-- Currently focused on a **large-scale Discord bot project**  
+- Currently focused on a **simple administration Discord-Bot**  
 - Open to freelance and junior frontend opportunities  
 
 ---

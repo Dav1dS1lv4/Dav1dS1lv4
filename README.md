@@ -24,22 +24,11 @@
 - React, JavaScript, HTML, CSS
 
 **Tools**
-- VS Code, Git, Figma
+- VS Code, Git
 
 **Backend (basic)**
 - C#, PHP, MySQL
 
----
-
-## 📌 Featured Projects
-
-🚧 (Add your best projects here — THIS IS VERY IMPORTANT)
-
-- Quote Generator App  
-- Weather App  
-- (any real project you built)
-
----
 
 ## 📊 GitHub Stats
 

@@ -1,32 +1,90 @@
 # 👋 Hey, I'm David Silva
 
 💻 Frontend Developer focused on React  
-🚀 Building modern, fast and user-friendly web apps  
+🎯 I build modern, responsive and user-friendly web applications  
 📍 Portugal  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-silva-170621235/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviid_rsilva/)
 
 ---
 
 ## 🚀 About Me
 
-- Frontend developer with focus on **React & modern UI**
-- Passionate about building clean and responsive interfaces
-- Currently improving skills in **performance & UX**
-- Open to freelance opportunities
+- Frontend developer focused on **React & UI development**
+- Passionate about clean design, performance and user experience
+- I enjoy building real projects instead of just tutorials
+- Open to **freelance work and junior frontend opportunities**
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced React patterns (hooks, context, performance)
+- UI/UX improvements for better user experience
+- API integration and frontend architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React, JavaScript, HTML, CSS
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-**Tools**
-- VS Code, Git
+### Tools
+- Git & GitHub
+- VS Code
+- Figma (basic UI planning)
 
-**Backend (basic)**
-- C#, PHP, MySQL
+### Backend (basic knowledge)
+- C#
+- PHP
+- MySQL
 
+---
 
+## 📌 Featured Projects
+
+### 🧾 Quote Generator
+- Generates random quotes using API
+- Clean UI with copy-to-clipboard feature
+- Focus on frontend and UX
+
+### 🌤 Weather App
+- Weather data using API integration
+- Responsive design for mobile and desktop
+- Real-time updates
+
+*(Add links to your repos here)*
+
+---
+
+## 💼 What I’m Looking For
+
+- Freelance frontend projects
+- Junior React developer opportunities
+- Real-world experience building useful apps
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dav1dS1lv4&show_icons=true&theme=dark&cache_seconds=86400"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dS1lv4&layout=compact&theme=dark&cache_seconds=86400"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [David Silva](https://www.linkedin.com/in/david-silva-170621235/)
+- Instagram: [@daviid_rsilva](https://www.instagram.com/daviid_rsilva/)
+- Discord: rS6z3QqV
+
+---
+
+⭐ Thanks for visiting my profile!

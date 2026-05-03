@@ -30,9 +30,3 @@
 - C#, PHP, MySQL
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dav1dS1lv4&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dS1lv4&layout=compact&theme=dark"/>
-</div>

@@ -51,15 +51,25 @@
 
 ---
 
-## 📊 GitHub Stats
+
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dav1dS1lv4&show_icons=true&theme=dark&cache_seconds=86400" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Dav1dS1lv4&show_icons=true&theme=tokyonight"
+    height="170"
+    alt="GitHub Stats"
+  />
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dav1dS1lv4&layout=compact&theme=dark&cache_seconds=86400" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dav1dS1lv4&layout=compact&theme=tokyonight"
+    height="170"
+    alt="Top Languages"
+  />
 
 </div>
+
 
 ---
 
